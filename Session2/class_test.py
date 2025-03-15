@@ -42,12 +42,12 @@
 #  Indentations ----> part of the python syntax
 #  f string ----> gives ability to insert variable to your string
 
-# word = str(input("Please provide a word: "))   ## aKumoSolutions
-# length = len(word)
-# if length > 10:
-#     print(f"That's a long word. It has {length} characters")
-# else:
-#     print(f"The word has {length} characters")
+word = str(input("Please provide a word: "))   ## aKumoSolutions
+length = len(word)
+if length > 10:
+    print(f"That's a long word. It has {length} characters")
+else:
+    print(f"The word has {length} characters")
     
 
 
