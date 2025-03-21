@@ -5,6 +5,8 @@
 # Output:
 # [3, 4]
 
+# Version1 
+
 def two_list(list1, list2):
     common = []
 
@@ -21,9 +23,10 @@ print(result)
 
 
 
-
 # [root@Python Homework]# python3 task3.py
 # Please enter the first list of numbers: 1 2 3 4 
 # Please enter the second list of numbers: 3 4 5 6 
 # ['3', '4']
 # [root@Python Homework]# 
+
+
